@@ -1,13 +1,16 @@
+#task-1{
+    display: flex;
+    justify-content: center;
+
+}
+
 h1{
-    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
 }
 
-h2{
-    color: palegreen;
-    font-size: x-large;
-}
-
-p{
-    color: darkcyan;
-    font-style: italic;
+body{
+    background-color: rgb(222, 203, 240);
+    
 }
