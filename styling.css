@@ -1,16 +1,27 @@
-#task-1{
-    display: flex;
-    justify-content: center;
-
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: brown;
 }
 
-h1{
-    display: flex;
-    justify-content: center;
-    padding-top: 50px;
+h1 {
+    text-align: center;
+    color: yellowgreen;
 }
 
-body{
-    background-color: rgb(222, 203, 240);
-    
+#task-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#task-input {
+    padding: 5px;
+    width: 300px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-left: 10px;
 }
