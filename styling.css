@@ -1,6 +1,7 @@
 h1 {
     display: flex;
     justify-content: center;
+    color: darkslateblue;
 }
 
 #task-container {
@@ -10,7 +11,9 @@ h1 {
 
 body {
     padding: 20px;
-    background-color: rgb(205, 182, 182);
+    background-image: url(https://img.freepik.com/free-vector/flat-abstract-doodle-background_23-2149315781.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
 }
 
